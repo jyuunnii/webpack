@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'noto-sans';
+  src: url('../fonts/NotoSansKR-Black.otf');
+}
+
+body {
+  font-size: 12px;
+  font-family: 'noto-sans';
+  background-image: url('../images/image.jpeg');
+}
